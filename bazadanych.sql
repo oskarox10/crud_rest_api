@@ -1,0 +1,1 @@
+SELECT * FROM rest_api.user;
